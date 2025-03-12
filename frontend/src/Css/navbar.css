@@ -1,0 +1,7 @@
+.link-border:hover {
+  border: 2px #2e51ed solid;
+  border-radius: 10%;
+}
+.dropdown-item {
+  cursor: pointer;
+}
